@@ -6,3 +6,6 @@ Train a decent model >85% accuracy for top-1 for the test set, using a ResNet50 
 
 Original Kaggle kernel is here:
 https://www.kaggle.com/phananhvu/fellowship-ai-food-101-fast-ai-v6
+
+GitHub may fail to load the notebook. In that case, the notebook can be viewed here:
+https://nbviewer.jupyter.org/github/phanav/food-101/blob/master/fellowship-ai-food-101-fast-ai-v6.ipynb
